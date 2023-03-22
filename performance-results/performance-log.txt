@@ -1,0 +1,22 @@
+{"startDisplayTime":"21/03/2023 12:37:09","instanceID":"instc19942dda65c4ef272f75c951d341586"}
+{"startDisplayTime":"21/03/2023 12:37:18","instanceID":"instee465a5ceef74ca02dd5a77ce8fd860f"}
+{"startDisplayTime":"21/03/2023 12:38:43","instanceID":"instd21c848c0ad4aa630c303339eeecf6bd"}
+{"startDisplayTime":"21/03/2023 12:40:25","instanceID":"instb463498d154c20f63460cee8e406223d"}
+{"name":"Startup","brName":"chrome","id":"20c88a7b792b0a88325e06fc9e2a759b","instanceId":"instb463498d154c20f63460cee8e406223d","startTime":1679413230604,"endTime":1679413233505,"startDisplayTime":"21/03/2023 12:40:30","duration":2901,"isTestPassed":true}
+{"startDisplayTime":"21/03/2023 12:46:23","instanceID":"inst43a17a3a2282530ccc4a24b394bc3f12"}
+{"name":"Startup","brName":"chrome","id":"f4ec8d6a814428171b3e13512a0ff122","instanceId":"inst43a17a3a2282530ccc4a24b394bc3f12","startTime":1679413588496,"endTime":1679413590732,"startDisplayTime":"21/03/2023 12:46:28","duration":2236,"isTestPassed":false}
+{"startDisplayTime":"21/03/2023 12:47:02","instanceID":"instf970324fd4f36d8833b8ad8a46b4cdca"}
+{"name":"Startup","brName":"chrome","id":"c3f9e0028d5db8cccd62d8371f8d2671","instanceId":"instf970324fd4f36d8833b8ad8a46b4cdca","startTime":1679413626820,"endTime":1679413629003,"startDisplayTime":"21/03/2023 12:47:06","duration":2183,"isTestPassed":false}
+{"startDisplayTime":"21/03/2023 12:47:42","instanceID":"inst41f7fb724b9f8fa37d8563ac600387b9"}
+{"name":"Startup","brName":"chrome","id":"0398ae09eae1c547d15359fb339771df","instanceId":"inst41f7fb724b9f8fa37d8563ac600387b9","startTime":1679413667186,"endTime":1679413670555,"startDisplayTime":"21/03/2023 12:47:47","duration":3369,"isTestPassed":false}
+{"startDisplayTime":"21/03/2023 12:52:47","instanceID":"inst767af9f85c4d81ef923a5d048f1ae076"}
+{"name":"Startup","brName":"chrome","id":"6fcc75732fd2e86ef12da1d188daed32","instanceId":"inst767af9f85c4d81ef923a5d048f1ae076","startTime":1679413973003,"endTime":1679413976039,"startDisplayTime":"21/03/2023 12:52:53","duration":3036,"isTestPassed":true}
+{"startDisplayTime":"21/03/2023 13:09:17","instanceID":"instc4f2a01301b34ce6364d56051f5adc24"}
+{"name":"Login Session","brName":"chrome","id":"56201478062ce989423b28e60ed7d69c","instanceId":"instc4f2a01301b34ce6364d56051f5adc24","startTime":1679414961397,"endTime":1679414964708,"startDisplayTime":"21/03/2023 13:09:21","duration":3311,"isTestPassed":true}
+{"name":"Credit Tools","brName":"chrome","id":"ce22e7097533aeb5882863972ec4e554","instanceId":"instc4f2a01301b34ce6364d56051f5adc24","startTime":1679414968988,"endTime":1679414986437,"startDisplayTime":"21/03/2023 13:09:28","duration":17449,"isTestPassed":true}
+{"startDisplayTime":"21/03/2023 13:33:02","instanceID":"instcd2fea24b4eedc402154735b8b830a4f"}
+{"name":"Login Session","brName":"chrome","id":"ba68aa74cb1451a6cd5be28f6adab04f","instanceId":"instcd2fea24b4eedc402154735b8b830a4f","startTime":1679416384596,"endTime":1679416388227,"startDisplayTime":"21/03/2023 13:33:04","duration":3631,"isTestPassed":true}
+{"name":"Credit Tools","brName":"chrome","id":"7738ff7eb5fff45d8cb3208b689ccb61","instanceId":"instcd2fea24b4eedc402154735b8b830a4f","startTime":1679416393506,"endTime":1679416401809,"startDisplayTime":"21/03/2023 13:33:13","duration":8303,"isTestPassed":true}
+{"startDisplayTime":"22/03/2023 07:38:57","instanceID":"inst2354ad792188f6567ad6f7375aa2a0ec"}
+{"name":"Login Session","brName":"chrome","id":"007269a7a3ba89286cee0edd12c96bbb","instanceId":"inst2354ad792188f6567ad6f7375aa2a0ec","startTime":1679481542372,"endTime":1679481546014,"startDisplayTime":"22/03/2023 07:39:02","duration":3642,"isTestPassed":true}
+{"name":"Credit Tools","brName":"chrome","id":"9bb0693cc1284a726669d1d37df461da","instanceId":"inst2354ad792188f6567ad6f7375aa2a0ec","startTime":1679481549315,"endTime":1679481556866,"startDisplayTime":"22/03/2023 07:39:09","duration":7551,"isTestPassed":true}

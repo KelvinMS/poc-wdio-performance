@@ -1,0 +1,4 @@
+name,brName,avgTime,sem,repeats,minValue,maxValue,earliestTime,latestTime
+Startup,general,2745,232,5,2183,3369,21/03/2023 12:40:30,21/03/2023 12:52:53
+Login Session,general,3528,109,3,3311,3642,21/03/2023 13:09:21,22/03/2023 07:39:02
+Credit Tools,general,11101,3181,3,7551,17449,21/03/2023 13:09:28,22/03/2023 07:39:09
